@@ -1,0 +1,13 @@
+{
+  "name": "mstack",
+  "version": "0.1.0",
+  "description": "Staff-engineer, UX, marketing, brainstorm and audit skills that plan before they build and prove their work.",
+  "author": {
+    "name": "Ming",
+    "url": "https://github.com/ohitsming"
+  },
+  "homepage": "https://github.com/ohitsming/mstack",
+  "repository": "https://github.com/ohitsming/mstack",
+  "license": "MIT",
+  "keywords": ["skills", "workflow", "code-review", "ux", "marketing"]
+}

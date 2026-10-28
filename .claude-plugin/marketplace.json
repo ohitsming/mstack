@@ -1,0 +1,17 @@
+{
+  "name": "mstack",
+  "owner": {
+    "name": "Ming",
+    "url": "https://github.com/ohitsming"
+  },
+  "metadata": {
+    "description": "Opinionated Claude Code skills for building and shipping products."
+  },
+  "plugins": [
+    {
+      "name": "mstack",
+      "source": "./plugins/mstack",
+      "description": "Staff-engineer, UX, marketing, brainstorm and audit skills that plan before they build and prove their work."
+    }
+  ]
+}
